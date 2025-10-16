@@ -1,0 +1,3 @@
+Tämä tarina on lyhyt
+Siinä on vain kolmeriviä
+ja tämä on viimeinen rivi
