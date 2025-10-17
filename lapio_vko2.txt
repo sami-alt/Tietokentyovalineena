@@ -2,4 +2,4 @@ Tämä rivi on muuttunut
 Tämä taas ei
 Viimenen jonne
 Oikeesti viimene
-Terveisiä koneelta
+Terveisiä koneelta ja githubista
